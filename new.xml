@@ -1,0 +1,9 @@
+<Person>
+    <Name>Anna</Name>
+    <Surname>Makarova</Surname>
+    <Age>35</Age>
+    <NumberOfPets>
+        <Pet>One_Cat</Pet>
+    </NumberOfPets>
+    <Salary>80000RUR</Salary>
+</Person> 
